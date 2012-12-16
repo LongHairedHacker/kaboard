@@ -1,86 +1,86 @@
-Cmp-Mod V01 Created by CvPcb (2012-10-13 BZR 3765)-stable date = Sun 09 Dec 2012 11:05:00 PM CET
+Cmp-Mod V01 Created by CvPcb (2012-12-10 BZR 3844)-stable date = Thu 13 Dec 2012 04:00:08 PM CET
 
 BeginCmp
 TimeStamp = /5069B992;
 Reference = C1;
-ValeurCmp = C;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069B6DA;
 Reference = C2;
-ValeurCmp = C;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069B6D1;
 Reference = C3;
-ValeurCmp = C;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069B4C5;
 Reference = C4;
-ValeurCmp = C;
+ValeurCmp = 22pF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069B4CA;
 Reference = C5;
-ValeurCmp = C;
+ValeurCmp = 22pF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/50C4AE4A;
 Reference = C6;
-ValeurCmp = CP1;
-IdModule  = c_tant_D;
+ValeurCmp = 10uF_tantal;
+IdModule  = c_elec_5x5.3;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/4F9D91CA;
 Reference = C7;
-ValeurCmp = CP1;
-IdModule  = c_tant_C;
+ValeurCmp = 4,7uF_tantal;
+IdModule  = c_elec_4x4.5;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/4F9D9131;
 Reference = C8;
-ValeurCmp = C;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/4F9D902E;
 Reference = C9;
-ValeurCmp = C;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/4F9D979D;
 Reference = C10;
-ValeurCmp = C;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/50C4AE59;
 Reference = C11;
-ValeurCmp = CP1;
-IdModule  = c_tant_D;
+ValeurCmp = 10uF_tantal;
+IdModule  = c_elec_5x5.3;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/50C4AE68;
 Reference = C12;
-ValeurCmp = C;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
@@ -94,7 +94,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5069AFCC/50C4BF42;
 Reference = D2;
-ValeurCmp = DIODE;
+ValeurCmp = BAT42W;
 IdModule  = sod123;
 EndCmp
 
@@ -123,7 +123,7 @@ BeginCmp
 TimeStamp = /5069AFCC/4F9D8ECA;
 Reference = J1;
 ValeurCmp = USB;
-IdModule  = USB_B;
+IdModule  = conn_usb_B_mini_smd;
 EndCmp
 
 BeginCmp
@@ -246,44 +246,51 @@ IdModule  = bornier2;
 EndCmp
 
 BeginCmp
+TimeStamp = /50C6F989;
+Reference = P11;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
 TimeStamp = /5069BA5E;
 Reference = R1;
-ValeurCmp = R;
+ValeurCmp = 10k;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/50C4B487;
 Reference = R2;
-ValeurCmp = R;
+ValeurCmp = 1k;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/4F9D95ED;
 Reference = R8;
-ValeurCmp = R;
+ValeurCmp = 4,7k;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/4F9D95FC;
 Reference = R9;
-ValeurCmp = R;
+ValeurCmp = 10k;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/4F9D991D;
 Reference = R10;
-ValeurCmp = R;
+ValeurCmp = 1k;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5069AFCC/4F9D992C;
 Reference = R11;
-ValeurCmp = R;
+ValeurCmp = 1k;
 IdModule  = SM0603;
 EndCmp
 
