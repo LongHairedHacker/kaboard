@@ -1,0 +1,99 @@
+eeschema (2012-10-13 BZR 3765)-stable  >> Creation date: Sun 09 Dec 2012 10:48:26 PM CET
+
+#Cmp ( order = Reference )
+| C1         100n        
+| C2         100n        
+| C3         100n        
+| C4         22p         
+| C5         22p         
+| C6         10uF tantal 
+| C7         4,7uF tantal
+| C8         100nF       
+| C9         100nF       
+| C10        C           
+| C11        10uF tantal 
+| C12        100nF       
+| D1         LED         
+| D2         BAT42W      
+| D6         LED         
+| D7         LED         
+| IC1        ATMEGA8-P   
+| J1         USB         
+| JP1        JUMPER      
+| JP2        JUMPER      
+| JP3        JUMPER      
+| K1         CONN_3      
+| K2         CONN_3      
+| K3         CONN_3      
+| L1         INDUCTOR    
+| P1         CONN_6      
+| P2         CONN_6      
+| P3         CONN_6      
+| P4         CONN_6      
+| P5         CONN_5      
+| P6         CONN_6      
+| P7         CONN_5      
+| P8         CONN_6      
+| P9         CONN_5      
+| P10        CONN_2      
+| R1         10k         
+| R2         1k          
+| R8         4,7k        
+| R9         10k         
+| R10        1k          
+| R11        1k          
+| SW1        SW_PUSH     
+| U1         FT232RL     
+| U2         LM1117      
+| X1         CRYSTAL     
+#End Cmp
+
+#Cmp ( order = Value )
+| 22p          C4        
+| 22p          C5        
+| 100n         C1        
+| 100n         C2        
+| 100n         C3        
+| 100nF        C8        
+| 100nF        C9        
+| 100nF        C12       
+| 4,7uF tantal C7        
+| 10uF tantal  C6        
+| 10uF tantal  C11       
+| C            C10       
+| LED          D1        
+| BAT42W       D2        
+| LED          D6        
+| LED          D7        
+| ATMEGA8-P    IC1       
+| USB          J1        
+| JUMPER       JP1       
+| JUMPER       JP2       
+| JUMPER       JP3       
+| CONN_3       K1        
+| CONN_3       K2        
+| CONN_3       K3        
+| INDUCTOR     L1        
+| CONN_6       P1        
+| CONN_6       P2        
+| CONN_6       P3        
+| CONN_6       P4        
+| CONN_5       P5        
+| CONN_6       P6        
+| CONN_5       P7        
+| CONN_6       P8        
+| CONN_5       P9        
+| CONN_2       P10       
+| 1k           R2        
+| 1k           R10       
+| 1k           R11       
+| 4,7k         R8        
+| 10k          R1        
+| 10k          R9        
+| SW_PUSH      SW1       
+| FT232RL      U1        
+| LM1117       U2        
+| CRYSTAL      X1        
+#End Cmp
+
+#End List
