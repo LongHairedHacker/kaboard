@@ -43,6 +43,9 @@ Anything in the folder libs/smisitoto_eu/ is taken from http://smisioto.no-ip.or
 The files are made avaible under the Creative Commons license rev2.5 Attribution-ShareAlike. (see https://creativecommons.org/licenses/by-sa/2.5/)
 Also I'd like to thank Walter for his footprints and 3d models here, they've been of great help in my hobby projects.
 
+The scale.pl script (libs/scale.pl) which was used to create the Kicadfiles for the KaBoard logo, can be found in this zip-archive:http://oshwlogo.com/logos/OSHW_logo_KiCad_scalable.zip
+All credits for this nice little script go to Robert Spitzenpfeil http://blog.spitzenpfeil.org/wordpress/
+
 The anything else in the project folder, like the board layout, the schmeatics and the KaBoard logo, are published under Attribution-ShareAlike 3.0 (see https://creativecommons.org/licenses/by-sa/3.0/)
 
 
