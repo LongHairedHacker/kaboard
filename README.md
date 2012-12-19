@@ -12,6 +12,7 @@ It's main features are :
  * All mcu pins broken out on pin headers
  * Vcc and GND pins near every mcu pin, usefull for supplying power to peripherials or for pullups or pulldowns
  * ft232rl serial to USB konverter
+ * It is not ardiuno compatible
 
 The components on the board were selected mostly, because they are cheap and easily obtianable at my local distributor.
 One exception is the ft232rl.
