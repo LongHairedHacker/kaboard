@@ -1,13 +1,12 @@
-PCBNEW-BOARD Version 1 date Tue 18 Dec 2012 09:17:05 AM CET
+PCBNEW-BOARD Version 1 date Tue 18 Dec 2012 05:49:17 PM CET
 
-# Created by Pcbnew(2012-12-10 BZR 3844)-stable
+# Created by Pcbnew(2012-10-13 BZR 3765)-stable
 
 $GENERAL
 encoding utf-8
 Units deci-mils
 LayerCount 2
 EnabledLayers 1FFF8001
-VisibleLayers 1FDF0001
 Links 141
 NoConn 0
 Di 41202 25121 62609 68960
@@ -64,7 +63,6 @@ TextModWidth 120
 PadSize 354 354
 PadDrill 354
 Pad2MaskClearance 100
-SolderMaskMinWidth 0
 AuxiliaryAxisOrg 50500 29000
 VisibleElements 7FFFFFFF
 PcbPlotParams (pcbplotparams (layerselection 15761409) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin true) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 2) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 0) (scaleselection 1) (outputdirectory plot/))
@@ -2311,7 +2309,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE SM0603
 $MODULE bornier2
-Po 56500 66500 0 15 50D02666 50C4B70F ~~
+Po 56500 66500 0 15 50D09E8C 50C4B70F ~~
 Li bornier2
 Cd Bornier d'alimentation 2 pins
 Kw DEV
@@ -2319,7 +2317,7 @@ Sc 50C4B70F
 AR /5069AFCC/50C4B3A1
 Op 0 0 0
 T0 0 -1800 394 394 0 99 N V 21 N "P10"
-T1 0 2000 600 600 0 120 N V 21 N "CONN_2"
+T1 0 2000 600 600 0 120 N I 21 N "CONN_2"
 DS 2000 1000 -2000 1000 120 21
 DS 2000 1500 2000 -1500 120 21
 DS 2000 -1500 -2000 -1500 120 21
@@ -2568,14 +2566,14 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE conn_usb_B_mini_smd
 $MODULE pin_array_3x2
-Po 56500 58000 1800 15 50CB71E0 50C6FAEF ~~
+Po 56500 58000 1800 15 50D026DA 50C6FAEF ~~
 Li pin_array_3x2
 Cd Double rangee de contacts 2 x 4 pins
 Kw CONN
 Sc 50C6FAEF
 AR /50C6F989
 Op 0 0 0
-T0 -100 1250 400 400 1800 80 N V 21 N "P11"
+T0 -100 1350 400 400 1800 80 N V 21 N "P11"
 T1 0 1500 400 400 1800 80 N I 21 N "CONN_3X2"
 DS 1500 1000 -1500 1000 80 21
 DS -1500 -1000 1500 -1000 80 21
@@ -31911,6 +31909,24 @@ $POLYSCORNERS
 50675 29175 0 0
 62325 29175 0 0
 62325 67825 1 0
+$endPOLYSCORNERS
+$endCZONE_OUTLINE
+$CZONE_OUTLINE
+ZInfo 50D02700 0 ""
+ZLayer 21
+ZAux 3 E
+ZClearance 67 T
+ZMinThickness 100
+ZOptions 0 16 F 200 200
+ZSmoothing 0 0
+ZCorner 58250 57500 0
+ZCorner 58750 57200 0
+ZCorner 58750 57800 1
+$POLYSCORNERS
+58700 57712 0 0
+58347 57500 0 0
+58700 57288 0 0
+58700 57712 1 0
 $endPOLYSCORNERS
 $endCZONE_OUTLINE
 $EndBOARD

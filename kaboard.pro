@@ -1,6 +1,6 @@
-update=Fri 14 Dec 2012 07:41:36 PM CET
+update=Tue 18 Dec 2012 05:51:07 PM CET
 version=1
-last_client=pcbnew
+last_client=cvpcb
 [general]
 version=1
 [eeschema]
@@ -43,11 +43,6 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=lm1117
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=kaboard.net
@@ -66,7 +61,6 @@ DrawSegmentWidth=0.381
 BoardOutlineThickness=0.381
 ModuleOutlineThickness=0.381
 [pcbnew/libraries]
-LibDir=libs/smisitoto_eu;libs
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -82,8 +76,13 @@ LibName12=w_smd_cap
 LibName13=w_smd_trans
 LibName14=w_smd_diode
 LibName15=w_conn_pc
-LibName16=smoke_chip
-LibName17=kaboard_logo_silkbot_15_00mm
-LibName18=ccbysa_silkbot_25_00mm
-LibName19=ccbysa_silkbot_10_00mm
-LibName20=ccbysa_silkbot_15_00mm
+LibName16=kaboard_logo_silkbot_15_00mm
+LibName17=ccbysa_silkbot_25_00mm
+LibName18=ccbysa_silkbot_10_00mm
+LibName19=ccbysa_silkbot_15_00mm
+LibDir=libs/smisitoto_eu;libs
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
