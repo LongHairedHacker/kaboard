@@ -47,6 +47,9 @@ Also I'd like to thank Walter for his footprints and 3d models here, they've bee
 The scale.pl script (libs/scale.pl) which was used to create the Kicadfiles for the KaBoard logo, can be found in this zip-archive:http://oshwlogo.com/logos/OSHW_logo_KiCad_scalable.zip
 All credits for this nice little script go to Robert Spitzenpfeil http://blog.spitzenpfeil.org/wordpress/
 
+The original optiboot code can be found under http://optiboot.googlecode.com.
+It is distributed under GNU General Public License Version 2.
+
 The anything else in the project folder, like the board layout, the schmeatics and the KaBoard logo, are published under Attribution-ShareAlike 3.0 (see https://creativecommons.org/licenses/by-sa/3.0/)
 
 
