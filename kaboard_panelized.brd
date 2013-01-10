@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Tue 18 Dec 2012 09:42:44 AM CET
+PCBNEW-BOARD Version 1 date Thu 10 Jan 2013 10:24:07 AM CET
 
 # Created by Pcbnew(2012-12-10 BZR 3844)-stable
 
@@ -9,8 +9,8 @@ LayerCount 2
 EnabledLayers 1FFF8001
 Links 503
 NoConn 80
-Di 27913 14763 76060 59117
-Ndraw 98
+Di 27913 7174 82727 59117
+Ndraw 99
 Ntrack 606
 Nzone 0
 BoardThickness 630
@@ -21,7 +21,7 @@ $EndGENERAL
 $SHEETDESCR
 Sheet A4 11693 8268
 Title ""
-Date "18 dec 2012"
+Date "10 jan 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -38144,6 +38144,11 @@ Dl -1843 -310
 Dl -1845 -292
 Dl -1845 -292
 $EndMODULE ccbysa_silkbot_15_00mm
+$TEXTPCB
+Te "OLD 1.0 VERSION"
+Po 56550 12150 3937 5000 984 0
+De 25 1 0 Normal
+$EndTEXTPCB
 $DRAWSEGMENT
 Po 0 36614 58268 36614 18898 150
 De 20 0 900 0 0
