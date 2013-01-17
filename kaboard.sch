@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Thu 10 Jan 2013 10:06:40 AM CET
+EESchema Schematic File Version 2  date Thu 17 Jan 2013 01:01:30 PM CET
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
 Title "Kaboard"
-Date "10 jan 2013"
+Date "17 jan 2013"
 Rev "1.1"
 Comp ""
 Comment1 ""
@@ -413,7 +413,7 @@ L R R1
 U 1 1 5069BA5E
 P 2100 3250
 F 0 "R1" V 2180 3250 50  0000 C CNN
-F 1 "10k" V 2100 3250 50  0000 C CNN
+F 1 "15k" V 2100 3250 50  0000 C CNN
 	1    2100 3250
 	1    0    0    -1  
 $EndComp
