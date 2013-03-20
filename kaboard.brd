@@ -1,12 +1,13 @@
-PCBNEW-BOARD Version 1 date Thu 10 Jan 2013 10:50:02 AM CET
+PCBNEW-BOARD Version 1 date Wed 20 Mar 2013 09:04:21 PM CET
 
-# Created by Pcbnew(2012-12-10 BZR 3844)-stable
+# Created by Pcbnew(2012-10-13 BZR 3765)-stable
 
 $GENERAL
 encoding utf-8
 Units deci-mils
 LayerCount 2
 EnabledLayers 1FFF8001
+VisibleLayers 1FDF0001
 Links 138
 NoConn 0
 Di 41202 25121 62609 68960
@@ -21,7 +22,7 @@ $EndGENERAL
 $SHEETDESCR
 Sheet A4 11693 8268
 Title ""
-Date "10 jan 2013"
+Date "20 mar 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -63,7 +64,6 @@ TextModWidth 120
 PadSize 196 865
 PadDrill 0
 Pad2MaskClearance 100
-SolderMaskMinWidth 0
 AuxiliaryAxisOrg 50500 29000
 VisibleElements 7FFFFFFF
 PcbPlotParams (pcbplotparams (layerselection 15761409) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin true) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 2) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 0) (scaleselection 1) (outputdirectory plot/))
@@ -13004,9 +13004,9 @@ Po 0 60850 37450 52000 37450 150
 De 20 0 900 0 0
 $EndDRAWSEGMENT
 $TEXTPCB
-Te "Powermode    JP2    JP1"
-nl "USB          Short  Short   "
-nl "Selfpowered  Open   Open"
+Te "Powermode    JP2    JP3"
+nl "USB          Open  Short   "
+nl "Selfpowered  Short  Open"
 Po 60400 36100 394 591 99 0
 De 20 0 0 Normal L C
 $EndTEXTPCB

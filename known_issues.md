@@ -21,6 +21,14 @@ Version 1.0
 
     Fixed in 1.1
 
+* Jumper settings table on back side is totally messed up.
+    Correct table : USB: JP2 open and JP3 short, 
+                    Selfpowered : JP2 short and JP3 open
+
+    Solution : Write a label and glue it over the faulty silkscreen
+
+    Fixed in 1.1.
+
 Version 1.1
 -----------
  * None found yet
