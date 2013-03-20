@@ -30,6 +30,22 @@ I decided to stick with the ft232rl for 2 reasons :
    Also I learned the hard way with my steallaris launchpad, that a usb can be a real pain in the ass when it comes to debugging it.
 
 
+Where can I get a Kaboard ?
+---------------------------
+Right now I don't sell Kaboards anywhere and the bug free 1.1 version has not been produced yet.
+So what I can offer you is a unpopulated 1.0 board with some minor bugs.
+So if you got a cool project and the kaboard is just the board you need,
+write an email to kaboard@sebastians-site.de, 
+explain your project and I might send you a unpopulated pcb for free.
+
+
+Known Issues
+------------
+You just got a unpopulated Kaboard and want to know what bugs you might encounter ?
+Check known_issues.md to see what issues you need to fix and how I usually fix them.
+Also if you think you have found a new bug write me a short mail : kaboard@sebastians-site.de 
+
+
 What the !/%§)"" does KaBoard mean ?
 ------------------------------------
 The name is actually inteded to be pun for german readers.
